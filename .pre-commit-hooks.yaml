@@ -1,0 +1,7 @@
+-   id: dart-precommit
+    name: Pre-commit hook for Dart
+    description: Executes the Dart pre-commit checks
+    entry: ./dart-pre-commit.sh
+    language: script
+    files: \.dart$
+
