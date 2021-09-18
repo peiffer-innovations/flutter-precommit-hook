@@ -5,7 +5,7 @@ A [pre-commit](http://pre-commit.com/) hook which ensures any Flutter code follo
 ```
 repos:
 - repo: https://github.com/peiffer-innovations/flutter-precommit-hook
-  rev: v1.0.2
+  rev: v1.0.3
   hooks:
     - id: flutter-precommit
 ```

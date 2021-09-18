@@ -1,3 +1,8 @@
+## [1.0.3] - September 18th, 2021
+
+* Switched to `dart format`
+
+
 ## [1.0.2] - Janurary 2nd, 2021
 
 * Removed `flutter build aot` as that's been formally removed from the CLI.
